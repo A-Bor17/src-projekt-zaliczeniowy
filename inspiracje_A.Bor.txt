@@ -1,16 +1,17 @@
 Inspiracje:
 
-I. 	Neologizmy i słowa ze slangu w języku angielskim.
-	Szybkość zachodzenia zmian w języku.
+I. 		Neologizmy i słowa ze slangu w języku angielskim.
+		Szybkość zachodzenia zmian w języku.
 
 II. 	Interface: okno dialogowe -> year
-			      	  -> country
+			      	  			  -> country
     	Język C++
 
-	Baza danych: SQL lub Windows Server Manager
+		Baza danych: SQL lub Windows Server Manager
 
 III. 	Kategoria: the_word_of_the_year_UK
-	Kategoria: the_word_of_the_year_Japan
-	Funkcje: while, void, if.
+		Kategoria: the_word_of_the_year_Japan
+		Funkcje: while, void, if.
 
 IV. 	Lista źródeł pomysłu: potrzeba.
+
