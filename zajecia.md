@@ -1,3 +1,10 @@
+```mermaid
+flowchart ID
+A[Start} --> B[Etap 1]
+B --> C[Stop]
+```
+
+
 Do zrobienia
 - [] zadanie 1
 - [x] zadanie 2
