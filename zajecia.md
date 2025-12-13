@@ -1,3 +1,7 @@
+Do zrobienia
+- [] zadanie 1
+- [x] zadanie 2
+
 # duży nagłówek
 regularny tekst
 **pogrubiony tekst** dajej tekst bez podrubiebia a tytaj kursywa
