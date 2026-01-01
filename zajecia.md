@@ -1,5 +1,5 @@
 ```mermaid
-flowchart ID
+flowchart TD
 A[Start} --> B[Etap 1]
 B --> C[Stop]
 ```
@@ -36,6 +36,7 @@ ostatni tekst
             auto [word, definition] = wordData["UK"][yearInput];
             cout << word << " - " << definition << "\n";
         }
+  }
 ```
 [tutaj jest link](https://www.merito.pl/)
 
