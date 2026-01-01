@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart ID
 A[Start} --> B[Etap 1]
 B --> C[Stop]
 ```
