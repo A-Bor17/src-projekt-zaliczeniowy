@@ -7,7 +7,7 @@ B --> C[Stop]
 
 Do zrobienia
 - [] zadanie 1
-- [x] zadanie 2
+- [] zadanie 2
 
 # duży nagłówek
 regularny tekst
@@ -22,8 +22,21 @@ ostatni tekst
 
 <pre>fragment kodu</pre> w ramach tekstu
 ```
-tutaj tez moze być kod
+ cout << "Choose the country of origin of the term:\n";
+    cin >> countryInput;
+
+        if (countryInput == "UK")
+    {
+        cout << "Choose the year from 2004 to 2025:\n";
+        cin >> yearInput;
+
+        if (wordData["UK"].count(yearInput))
+        {
+            cout << "\nThe word of the year " << yearInput << " is:\n";
+            auto [word, definition] = wordData["UK"][yearInput];
+            cout << word << " - " << definition << "\n";
+        }
 ```
 [tutaj jest link](https://www.merito.pl/)
 
-! [opis obrazka](image)
+![opis ilustracji](image.jpg)
