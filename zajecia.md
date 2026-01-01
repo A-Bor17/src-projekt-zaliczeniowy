@@ -1,6 +1,6 @@
 ```mermaid
 flowchart ID
-A[Start} --> B[Etap 1]
+A[Start] --> B[Etap 1]
 B --> C[Stop]
 ```
 
