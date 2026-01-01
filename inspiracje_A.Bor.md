@@ -21,9 +21,9 @@
 - the_word_of_the_year_Japan
 
 ## Funkcje
-- while
-- void
-- if
+- *while*
+- *void*
+- *if*
 
 ## Lista źródeł pomysłu
 - potrzeba
